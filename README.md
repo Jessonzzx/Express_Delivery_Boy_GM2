@@ -47,4 +47,9 @@ Future plans include expanding to more platforms and adding new storylines.
 
 ---
 
+## Install instructions
+Extract/unzip the zip folder and open it. Inside, run the ShipDefense executable to play the game.
+
+---
+
 *© 2025 Express Delivery Boy. All rights reserved.*
